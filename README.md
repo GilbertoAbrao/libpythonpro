@@ -9,6 +9,8 @@ Suportada versão 3 de Python
 
 [![Python 3](https://pyup.io/repos/github/GilbertoAbrao/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/GilbertoAbrao/libpythonpro/)
 
+[![codecov](https://codecov.io/gh/GilbertoAbrao/libpythonpro/branch/master/graph/badge.svg?token=KZ6US7JAAO)](undefined)
+
 Para instalar:
  
 ```console

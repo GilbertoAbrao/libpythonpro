@@ -10,6 +10,7 @@ def test_qtd_de_spam(sessao):
         'Confira os modulos fantásticos'
     )
 
+
 def test_parametros_de_spam(sessao):
     enviador_de_spam = EnviadorDeSpam(sessao, Enviador())
     enviador_de_spam.enviar_emails(
